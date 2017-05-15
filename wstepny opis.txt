@@ -1,0 +1,8 @@
+Nazwa projektu: "Simple Image Modifier"
+Autor: Marta Dmitrzak
+
+Jest to program, który s³u¿y do przetworzenia danego obrazu. W tym celu w programie zostanie zaimplementowanych kilka algorytmów, takich jak: 
+- filtr medianowy - wartoœæ centralnego piksela zostaje zast¹piona median¹ ze zbioru pikseli s¹siednich, wielkoœæ maski: 3x3,
+- filtr uœredniaj¹cy - wartoœæ centralnego piksela zostaje zast¹piona œredni¹ ze zbioru pikseli s¹siednich, wielkoœæ maski: 3x3,
+- kompresja stratna - dany piksel uzyskuje wartoœæ piksela s¹siedniego.
+U¿ytkownik za³¹cza grafikê, która ma ulec modyfikacji. Nastêpnie wybiera jedn¹ z dostêpnych opcji i u¿yskuje zmieniony obraz.
